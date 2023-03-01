@@ -1,0 +1,15 @@
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\bin\Debug\net7.0\Atividade.exe
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\bin\Debug\net7.0\Atividade.deps.json
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\bin\Debug\net7.0\Atividade.dll
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\bin\Debug\net7.0\Atividade.pdb
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\Atividade.dll
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\refint\Atividade.dll
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\Atividade.pdb
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+D:\Arquivos\TI\Back End SENAI\Codificação Back End\Atividade 07a\atividade\obj\Debug\net7.0\ref\Atividade.dll
